@@ -1,5 +1,11 @@
 # ReunificationForm
-The Reunification Form is a Survey123 "template" used in the search and rescue reunification process. It can be used for missing people, rescued people, human remains recovery, etc.
+This is a Survey123 "Smart Form" for reunification information. This can be used for tracking status of: 
+- Missing Persons
+- Survivors in need of Rescue/Evacuation
+- Survivors Rescued/Evacuated
+- Human Remains
+
+The goal of this form is support wide area search operations when detailed information is needed to support reunification, beyond SARCOP Waypoints. It must be hosted on platforms approved for handling personally identifiable information (PII).
 
 The webform based prototype can be found here https://arcg.is/iDC01 and CANNOT BE USED OR REAL-WORLD INCIDENTS.
 
