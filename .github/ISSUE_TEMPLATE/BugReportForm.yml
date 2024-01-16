@@ -13,6 +13,7 @@ body:
       description: Select in which app you are observing this issue.
       options:
         - N/A
+        - Survey123
         - QuickCapture
         - Field Maps
         - Dashboards
